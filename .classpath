@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/ajay/java/ICEpdf-eeba064c80e93f375b32abdf6e349d07b95e9d0a/lib/icepdf-core.jar"/>
+	<classpathentry kind="lib" path="/home/ajay/java/ICEpdf-eeba064c80e93f375b32abdf6e349d07b95e9d0a/lib/icepdf-viewer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
